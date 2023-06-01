@@ -1,8 +1,8 @@
 import React from "react";
 
-import BackgroundImage1 from "../../../assets/images/slider_1.jpg";
-import BackgroundImage2 from "../../../assets/images/slider_2.jpg";
-import BackgroundImage3 from "../../../assets/images/slider_3.jpg";
+import BackgroundImage1 from "../../../assets/images/slider_1.webp";
+import BackgroundImage2 from "../../../assets/images/slider_2.webp";
+import BackgroundImage3 from "../../../assets/images/slider_3.webp";
 import { Carousel } from "react-bootstrap";
 import "./HomeBanner.scss";
 import { Link } from "react-router-dom";
